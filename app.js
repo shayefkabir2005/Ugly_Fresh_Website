@@ -31,6 +31,11 @@ const products = [
   {id:30,name:"Cherry",category:"fruits",price:150,description:"Cherry is a small, juicy fruit loved for its sweet-tart flavor and bright, vibrant color.",image:"./res/Fruits/cherry.jpg"},
   {id:31,name:"Kiwi",category:"fruits",price:300,description:"Kiwi is a tangy, nutrient-rich fruit known for its vibrant green flesh and refreshing flavor.",image:"./res/Fruits/kiwi.jpg"},
   {id:32,name:"Aloe Vera",category:"herbs",price:100,description:"Aloe vera is a soothing, succulent plant valued for its healing gel and skin-nourishing benefits.",image:"./res/Herbs/aloevera.jpg"},
+  {id:33,name:"lemon",category:"fruits",price:20,description:"Fresh and juicy yellow lemons, rich in Vitamin C, perfect for adding a tangy flavor to dishes, teas, and drinks.",image:"./res/Fruits/lemon.jpg"},
+  {id:34,name:"mango",category:"fruits",price:100,description:"100% naturally ripened, carbide-free fresh mangoes with a juicy, sweet flavor, rich in vitamins, and delivered straight from farms.",image:"./res/Fruits/mango.jpg"},
+  {id:35,name:"orange",category:"fruits",price:150,description:"resh, juicy, and naturally sweet Nagpur oranges sourced directly from farmers, rich in Vitamin C and perfect for healthy snacking or refreshing juice.",image:"./res/Fruits/orange.jpg"},
+  {id:36,name:"pineapple",category:"fruits",price:120,description:"resh, juicy, and tangy-sweet pineapple, packed with tropical flavor and essential nutrients like Vitamin C and manganese.",image:"./res/Fruits/pineapple.jpg"},
+  {id:37,name:"watermelon",category:"fruits",price:150,description:"Fresh, hydrating, and naturally sweet, this premium watermelon features a vibrant red, juicy interior perfect for summer.",image:"./res/Fruits/watermelon.jpg"},
 ];
 
 // ------------------- Cart Helpers -------------------
